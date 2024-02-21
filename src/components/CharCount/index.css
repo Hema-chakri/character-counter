@@ -1,0 +1,47 @@
+.app-container {
+  display: flex;
+  padding: 60px 35px 60px 30px;
+  min-height: 100vh;
+}
+
+.image-style {
+  height: 500px;
+  width: 500px;
+}
+
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+
+.left-part-bottom-container {
+  background-color: #ffc533;
+  min-height: 350px;
+}
+
+.left-part-container {
+  background-color: #ffbf1f;
+}
+
+.right-part-container {
+  background-color: #0f172a;
+}
+
+.right-heading {
+  color: #ffc533;
+}
+
+.button-style {
+  background-color: #ffbf1f;
+  color: #1e293b;
+  border-width: 0;
+  margin-left: 10px;
+  height: 30px;
+  width: 50px;
+  border-radius: 6px;
+}
+
+.input-style {
+  height: 30px;
+  outline: none;
+}
